@@ -1,1 +1,3 @@
-# simple-clustering
+# Simple NLP processes
+
+This notebook is an application and extension of curriculum I learned in the MDS program at UBC. This project will explore pre-trained word embeddings and how they can carry biases, as well as how they can be represented graphically using principle component analysis and t-distributed stochastic neighbor embedding (t-SNE). I also train my own word embeddings using two different NLP models (Word2Vec and fastText) and compare how they process new words. My final models created quite different similarity rankings for the same words, with the Word2Vec model retaining more context than the fastText model for the word _human_.
